@@ -18,7 +18,6 @@ I am a software developer with a growing focus on data analysis. My background i
 ## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
